@@ -17,7 +17,7 @@ A unique angle we took to compare Des Moines and NYC was the density of one of t
 
 
 ***
-| First Header  | Des Moines |  NYC  |
+| | Des Moines |  NYC  |
 | ------------- | ------------- |-------|
 | Population estimates (July 2019)  | 214,237    | 8,336,817 |
 | Total Number of Firms (2012)      | 16,543     | 1,050,911 |
