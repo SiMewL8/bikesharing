@@ -12,7 +12,7 @@ While using Tableau, a professional Data Analysis software, we found some intere
 - 70% of bike usage is by males, and about 20% is by females.
 
 ## Des Moines, Iowa: Go for Gold?
-A unique angle we took to compare Des Moines and NYC was the density of one of the most popular fast food chains: McDonalds. We compiled data to display the density of McDonalds and see if it affects the people’s choices in where they want to go in the city. Here are quick facts about both cities from [U.S. Census Bureau QuickFacts](https://www.census.gov/quickfacts/fact/table/US/PST045219) :
+A unique angle we took to compare Des Moines and NYC was the density of one of the most popular fast food chains: McDonalds. We compiled data to display the density of McDonalds and see if it affects the people’s choices in where they want to go in the city. Here are quick facts about both cities from [U.S. Census Bureau QuickFacts](https://www.census.gov/quickfacts/fact/table/US/PST045219):
  <br></br>
 
 
@@ -29,7 +29,7 @@ A unique angle we took to compare Des Moines and NYC was the density of one of t
 <br></br>
 Taking all of the quick facts into account, we can speculate why a Citi Bike business might be noticeably different to run in both cities. Analysis the McDonalds density analysis, we noticed some interesting details about both cities hosting the fast food franchise:
 
-- NYC McDonalds are clustered together (21 total within 5 miles)
+- NYC McDonalds are clustered together (21 total restaurants within 5 miles)
     - Des Moines McDonalds are spread apart, even though Des Moines Area Size is larger (14 total within 15 miles) 
 
 - Since more NYC locations are present in clusters, more options for people to go
